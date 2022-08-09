@@ -1,2 +1,2 @@
-# SevenPlus
-SevenPlus test repo 
+# Compass-Test-Repo
+Compass Test Repo
